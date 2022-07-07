@@ -1,4 +1,4 @@
-S.No	Name	Team	Tool
-1	Subu L	DevOps	BitBucket
-2	Anil	DevOps	Kubernetes
-3	Vineet	DevOps	AWs
+S.No	Name	Team	  Tool
+1	    Subu 	DevOps	BitBucket
+2	    Anil	DevOps	Kubernetes
+3	    Vineet	DevOps	AWs
